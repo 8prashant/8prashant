@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://www.8prashant/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <a href="https://www.8prashant/" target="_blank" rel="noreferrer"><img src="" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -19,7 +19,6 @@ Computer Science student with a strong foundation in data structures and algorit
 <a href="https://www.linkedin.com/in/prashant-kumar-rai-393036165"></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-- 
 ## 🌱 I'm currently learning
 
 - 📱 React
