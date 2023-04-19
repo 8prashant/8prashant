@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<p align="center">
-  <a href="https://www.8prashant/" target="_blank" rel="noreferrer"><img src="" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href="" target="_blank" rel="noreferrer">Prashant Kumar Rai</a> 👋
 </h3>
