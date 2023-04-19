@@ -16,7 +16,7 @@ Computer Science student with a strong foundation in data structures and algorit
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/prashant-kumar-rai-393036165"><img align="left" src="" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/prashant-kumar-rai-393036165"></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 - 
