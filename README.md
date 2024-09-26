@@ -9,7 +9,6 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸!
 </h2> 
 <h3>
 Final-year B.Tech (CSE) student at VIT Bhopal with a strong focus on web development, algorithms, and cloud technologies. Experienced in full-stack projects using MERN, Django, and Ethereum Blockchain, along with solving 900+ coding problems on Codeforces and LeetCode. AWS Certified Cloud Practitioner, with top ICPC contest rankings and a passion for problem-solving and innovation.</h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=8prashant&label=Profile%20views&color=0e75b6&style=flat" alt="8prashant" /></p>
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=8prashant" alt="8prashant" />
