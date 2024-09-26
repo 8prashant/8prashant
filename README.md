@@ -1,12 +1,7 @@
-### Hi there 👋
-
-<h3 align="center">
+<h1 align="center">
 Hi there, I'm <a href="" target="_blank" rel="noreferrer">Prashant Kumar Rai</a> 👋
-</h3>
+</h1>
 
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸!
-</h2> 
 <h3>
 Final-year B.Tech (CSE) student at VIT Bhopal with a strong focus on web development, algorithms, and cloud technologies. Experienced in full-stack projects using MERN, Django, and Ethereum Blockchain, along with solving 900+ coding problems on Codeforces and LeetCode. AWS Certified Cloud Practitioner, with top ICPC contest rankings and a passion for problem-solving and innovation.</h3>
 <p align="center"> 
